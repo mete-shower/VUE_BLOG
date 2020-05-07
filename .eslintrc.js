@@ -37,4 +37,4 @@ module.exports = {
     complexity: [1, 10], // 循环复杂度
     'no-unused-vars': 1 // 不能有声明后未被使用的变量或参数
   }
-}
+};
